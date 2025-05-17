@@ -1,1 +1,1 @@
-# pkg
+# Package for Arch and Manjaro
